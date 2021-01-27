@@ -1,0 +1,216 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.main-container {
+  background-color: #ffffff;
+  display: flex;
+  max-width: 1200px;
+  margin: 0 auto;
+  box-shadow: 5px 9px 20px rgba(0, 0, 0, 0.15);
+}
+body {
+  background-color: #c5ccd8;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  padding-left: 20px;
+  padding-right: 20px;
+  font-family: Montserrat;
+}
+.aside {
+  background-color: #303439;
+  width: 370px;
+  padding-top: 40px;
+  height: 1319px;
+}
+.aside.red {
+  background-color: #568989;
+}
+.my-photo {
+  width: 370px;
+  height: 370px;
+}
+.about-me-container {
+  padding-left: 90px;
+  padding-right: 90px;
+  margin-top: 110px;
+  margin-bottom: 110px;
+}
+.contacts {
+  margin-top: 60px;
+  margin-left: 40px;
+  margin-right: 40px;
+}
+.contacts-title {
+  font-size: 22px;
+  font-weight: 700;
+  font-style: normal;
+  color: #ffffff;
+  margin-bottom: 20px;
+}
+.contacts-link {
+  font-size: 14px;
+  font-weight: 400;
+  font-style: normal;
+  color: #f59007;
+  width: 166px;
+}
+
+.contacts-link-type {
+  font-size: 14px;
+  font-weight: 700;
+  font-style: normal;
+  color: #ffffff;
+  margin-right: 10px;
+}
+
+.Tech-Skills-title {
+  font-size: 22px;
+  font-weight: 700;
+  font-style: normal;
+  color: #ffffff;
+  margin-bottom: 20px;
+}
+.skills {
+  margin-left: 40px;
+  margin-right: 40px;
+  margin-top: 40px;
+}
+.Tech-Skills {
+  font-size: 14px;
+  font-weight: 400;
+  font-style: normal;
+  margin-left: 15px;
+  color: #e4630e;
+}
+.Tech-Skills-type {
+  color: #ffffff;
+}
+/*домашнее задание*/
+.Soft-Skills-title {
+  font-size: 22px;
+  font-weight: 700;
+  font-style: normal;
+  color: #ffffff;
+  margin-bottom: 20px;
+}
+.soft-skills-container {
+  margin-left: 40px;
+  margin-right: 40px;
+  margin-top: 40px;
+  color: #ffffff;
+}
+.soft-skills-text {
+  font-size: 14px;
+  font-weight: 400;
+  font-style: normal;
+
+  color: #ffffff;
+}
+.soft-skills {
+  margin-left: 15px;
+  color: #e4630e;
+}
+.ixtisas {
+  font-size: 14px;
+  font-weight: 700;
+  font-style: normal;
+  color: #000000;
+}
+.name {
+  color: #000000;
+  font-family: Montserrat;
+  font-size: 45px;
+  font-weight: 700;
+  font-style: normal;
+  margin-top: 25px;
+}
+.lorem {
+  color: #595959;
+  font-family: Montserrat;
+  font-size: 14px;
+  font-weight: 400;
+  font-style: normal;
+  margin-top: 25px;
+}
+.about-me-title {
+  font-size: 22px;
+  font-weight: 700;
+  font-style: normal;
+  margin-bottom: 10px;
+}
+
+.info-me {
+  margin-bottom: 45px;
+}
+.projects-sites {
+  color: #595959;
+  font-size: 14px;
+  font-weight: 400;
+  font-style: normal;
+}
+.tech-name {
+  color: #595959;
+  font-size: 14px;
+  font-weight: 400;
+  font-style: normal;
+}
+.dots {
+  color: #595959;
+  font-weight: 100;
+}
+.projects-item {
+  color: #000000;
+  font-weight: 700;
+  margin-left: 20px;
+}
+.sites {
+  margin-bottom: 55px;
+}
+.about-me-company {
+  font-size: 16px;
+  font-weight: 700;
+  font-style: normal;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+.company-text {
+  color: #ff6b08;
+}
+.company-date {
+  color: #a8a8a8;
+  font-size: 12px;
+  font-weight: 400;
+  font-style: normal;
+  margin-top: 15px;
+}
+.company-sign {
+  color: #000000;
+}
+.company-about {
+  color: #595959;
+  font-size: 14px;
+  font-weight: 400;
+  font-style: normal;
+  margin-left: 17px;
+  margin-top: 15px;
+}
+.education {
+  margin-top: 55px;
+  margin-bottom: 20px;
+}
+.about-me-university {
+  font-size: 16px;
+  font-weight: 700;
+  font-style: normal;
+  color: #ff6b08;
+  margin-top: 21px;
+}
+.management {
+  font-size: 14px;
+  font-weight: 700;
+  font-style: normal;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
